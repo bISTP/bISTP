@@ -18,7 +18,7 @@
 [<img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MS SQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-right:10px;" />]
 [<img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="RStudio" width="26px" src="https://github.com/devicons/devicon/tree/v2.14.0/icons/rstudio.svg" style="padding-right:10px;" />]
+[<img align="left" alt="RStudio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/heroku/heroku-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Flask" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flask/flask-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Tableau" width="26px" src="./img/tableau-software.svg" style="padding-right:10px;" />]
