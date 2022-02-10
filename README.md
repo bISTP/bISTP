@@ -8,7 +8,6 @@
 
 [![website](./img/twitter-light.svg)](https://twitter.com/biSTRONNN#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/biSTRONNN#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/bistx_x/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/bistx_x/#gh-dark-mode-only)
 
