@@ -30,5 +30,5 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](#gh-light-mode-only)
 
 ### Python Libraries:
-[<img align="left" alt="NumPy" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/numpy/numpy-original-wordmark.svg" style="padding-right:50px;" />](https://numpy.org/)
+[<img align="left" alt="NumPy" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/numpy/numpy-original-wordmark.svg" width="10" style="padding-right:10px;" />](https://numpy.org/)
 [<img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" />](https://pandas.pydata.org/)
