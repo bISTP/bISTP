@@ -14,7 +14,7 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/bistx_x/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/bistp)
-[![website](./img/linkedin-dark.svg.svg)](www.linkedin.com/in/bistp/#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/bistp/#gh-dark-mode-only)
 
 
 ### Languages and Tools:
