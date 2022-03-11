@@ -15,6 +15,8 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bistp/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bistp/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/kaggle_icon.svg)](https://www.kaggle.com/prabhatbist)
 
 
 ### Languages and Tools:
