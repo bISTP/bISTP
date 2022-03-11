@@ -17,6 +17,8 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bistp/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img align="left" alt="Kaggle" width="40px" src="https://www.kaggle.com/static/images/site-logo.svg" style="padding-right:10px;" />](https://www.kaggle.com/prabhatbist)
+&nbsp;&nbsp;
+[![website](https://github.com/bISTP/bISTP/blob/main/img/kaggle_icon.png)]((https://www.kaggle.com/prabhatbist))
 
 
 ### Languages and Tools:
