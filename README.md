@@ -1,9 +1,9 @@
-# Hi there, I'm Prabhat Bist aka bISTP
+# Hi there, It's bISTP
 
-## I'm currently a student learning Data Analytics
+## I'm Currently Working as a Data Analyst and Learning more about Data Analytics
 
-- currently working on an end-to-end project about Thyroid Disease Detection
-- I'm planning on learning more about computer vision soon
+- currently working with Statistical Models, APIs etc.
+- I'm Planning on Learning more about Computer Vision and woring on Some Interesting Personal Projects. 
 
 ### Connect with me:
 
