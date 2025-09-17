@@ -1,46 +1,109 @@
-# Hi there, It's bISTP
+# Hi there, I'm bISTP 👋
 
-## I'm Currently Working as a Data Analyst and Learning more about Data Analytics
+<p align="right">
+    <a href="https://linkedin.com/in/bistp" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://bistp.github.io" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-3B7EBF?logo=ReadMe&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="mailto:Prabhat020@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+</p>
 
-- currently working with Statistical Models, APIs etc.
-- I'm Planning on Learning more about Computer Vision and woring on Some Interesting Personal Projects. 
+I'm a Data Analyst with 3 years of experience, specializing in transforming complex data into actionable business intelligence. I build end-to-end data solutions, from engineering scalable ETL pipelines to developing interactive dashboards that empower data-driven decisions.
 
-### Connect with me:
+My passion lies in leveraging the modern data stack to solve challenging problems and create value from data.
 
-[![website](./img/twitter-light.svg)](https://twitter.com/biSTRONNN#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/biSTRONNN#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/bistx_x/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/bistx_x/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bistp/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bistp/#gh-dark-mode-only)
+---
 
+### 🛠️ My Tech Stack & Tools
 
-### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/)
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />](https://jupyter.org/)
-[<img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />](https://www.jetbrains.com/pycharm/)
-[<img align="left" alt="Tableau" width="26px" src="./img/tableau-software.svg" style="padding-right:10px;" />](https://www.tableau.com/)
-[<img align="left" alt="MS SQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-in/sql-server/)
-[<img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />](https://www.r-project.org/)
-[<img align="left" alt="RStudio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />](https://www.rstudio.com/)
-[<img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/heroku/heroku-original.svg" style="padding-right:10px;" />](https://www.heroku.com/)
-[<img align="left" alt="Flask" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flask/flask-original.svg" style="padding-right:10px;" />](https://flask.palletsprojects.com/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/HTML5)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/#gh-light-mode-only)
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
-<br/>
-<br/>
-### Python Libraries:
-[<img align="left" alt="NumPy" width="40px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px;" />](https://numpy.org/)
-[<img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" />](https://pandas.pydata.org/)
-[<img align="left" alt="Matplotlib" width="40px" src="https://matplotlib.org/_static/images/logo2.svg" style="padding-right:10px;" />](https://matplotlib.org/)
-[<img align="left" alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="padding-right:10px;" />](https://seaborn.pydata.org/)
-[<img align="left" alt="SKlearn" width="40px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" style="padding-right:10px;" />](https://scikit-learn.org/stable/#)
-[<img align="left" alt="SciPy" width="26px" src="https://scipy.org/images/logo.svg" style="padding-right:10px;" />](https://scipy.org/)
-[<img align="left" alt="Keras" width="40px" src="https://keras.io/img/logo.png" style="padding-right:10px;" />](https://keras.io/)
-[<img align="left" alt="TensorFlow" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />](https://www.tensorflow.org/)
+*   **Languages & Databases:**
+    <br>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
 
+*   **BI, Visualization & Web Apps:**
+    <br>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau"/>
+    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit"/>
+
+*   **Data Processing & Orchestration:**
+    <br>
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white" alt="Apache Spark"/>
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+    <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white" alt="dbt"/>
+
+*   **Cloud & DevOps:**
+    <br>
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+    <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+
+---
+
+### 🚀 My Featured Projects
+
+Here are a couple of projects I'm proud of. Please feel free to explore!
+
+| Project Name | Description | Tech Stack | Links |
+|--------------|-------------|------------|-------|
+| **ETL-Churn-Analytics-PowerBI** | An end-to-end analytics project identifying key drivers of customer churn. Features a full ETL process, a predictive ML model, and a comprehensive BI dashboard. | `SQL` `Python` `Scikit-learn` `Power BI` | [🔗 GitHub](https://github.com/bISTP/ETL-Churn-Analytics-PowerBI) <br> [📊 Live Dashboard]([https://[link-to-your-published-powerbi-dashboard]](https://app.powerbi.com/groups/me/reports/8540484e-2a0e-41ed-b79d-0f081474c0f5/df8446097b1c4aabc259?experience=power-bi)) |
+| **Unified-Investment-Portfolio-Dashboard** | A fully automated data pipeline and Power BI dashboard to track a diversified investment portfolio (Stocks, MFs, Crypto). Aggregates data via APIs for daily updates. | `Python` `REST APIs` `Pandas` `Power BI` | [🔗 GitHub](https://github.com/bISTP/Unified-Investment-Portfolio-Dashboard) <br> [📊 Live Dashboard]([https://[link-to-your-published-powerbi-dashboard]](https://app.powerbi.com/groups/me/reports/4564da59-6dc0-435d-8a3e-0849bf925d13/3762545e4448a289dc7c?experience=power-bi)) |
+
+*You can also find some of my earlier work on analytics (mostly machine learning) projects/case studies in my other repositories listed below.*
+
+| Project Name | Description | Tech Stack | Links |
+|--------------|-------------|------------|-------|
+|**Network-Intrusion-Detection-System**|A Binary and Multi-Class Classification Problem solved with the help of many machine learning algorithms.| `Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Keras` | [🔗 GitHub](https://github.com/bISTP/Network-Intrusion-Detection-System) |
+| **Emotion-Detection-OpenCV-Pytorch-ResNet9** | A ResNet9 architecture based model was trained on a Dataset containing 28000+ images spreaded across 7 different classes of emotions. And then the Model was used in a Real Time Application made using Tkinter. | `Python` `NumPy` `Pandas` `Seaborn` `Scikit-learn` `PyTorch` | [🔗 GitHub](https://github.com/bISTP/Emotion-Detection-OpenCV-Pytorch-ResNet9) |
+| **Health-Care-Case-Study** | Solving series of Business Problems related to Health Care Domain using Descriptive and Predictive Analysis. | `Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn` `XGBoost` | [🔗 GitHub](https://github.com/bISTP/Health-Care-Case-Study) |
+| **NLP-Analyzing-online-Job-Postings** | Providing solutions to various Business Problems using Supervised and Unsupervised Learning on Text Data | `Python` `Matplotlib` `Scikit-learn` `imblearn` `NLTK` `Keras` | [🔗 GitHub](https://github.com/bISTP/NLP-Analyzing-online-Job-Postings) |
+| **Thyroid-Disease-Detection** | Hyperthyroidism and Hypothyroidism are one of the two common diseases of the thyroid that releases thyroid hormones in regulating the rate of body's metabolism. The main goal is to predict the estimated risk on a patient's chance of obtaining thyroid disease or not. | `Python` `Matplotlib` `Scikit-learn` `Keras` `Flask` `CSS` `HTML`| [🔗 GitHub](https://github.com/bISTP/Thyroid-Disease-Detection) |
+| **Text-Mining-Bank-Reviews-Complaints-Analysis** | Analyzing Bank Reviews using Supervised and Unsupervised Learning with the help of Natural Language Processing. | `Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn` `NLTK` | [🔗 GitHub](https://github.com/bISTP/Text-Mining-Bank-Reviews-Complaints-Analysis) |
+| **Segmentation-of-Credit-Card-Customers** | Performing Unsupervised Learning on a Credit Card Data to Segment Customers into different clusters using KMeans Clustering. | `Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn` | [🔗 GitHub](https://github.com/bISTP/Segmentation-of-Credit-Card-Customers) |
+| **Walmart-Store-Sales-Forecasting** | A regression based problem solved through sophisticated machine learning algorithms. | `Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Keras` | [🔗 GitHub](https://github.com/bISTP/Walmart-Store-Sales-Forecasting) |
+| **Predicting-Credit-Card-Spend-Identifying-Key-Drivers** | A regression based problem solved via statistical modelling. | `Python` `Matplotlib` `Scikit-learn` `SciPy` `Statsmodels` | [🔗 GitHub](https://github.com/bISTP/Predicting-Credit-Card-Spend-Identifying-Key-Drivers) |
+| **** |  | `Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Keras` | [🔗 GitHub](https://github.com/bISTP/) |
+| **** |  | `Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Keras` | [🔗 GitHub](https://github.com/bISTP/) |
+
+---
+
+### 🌱 I'm Currently Learning & Building
+
+I believe in continuous learning and am always excited to explore new technologies. My current focus is on:
+
+- **Orchestrating** production-grade data workflows with **Apache Airflow**.
+- **Developing** modular, testable data models with **dbt**.
+- **Processing** large-scale datasets with **Apache Spark** on **Azure Databricks**.
+- **Containerizing** applications with **Docker** for reproducible and scalable deployments.
+
+---
+
+### 📫 Let's Connect!
+
+Connect with me on social media or check out my portfolio. I'm always open to new opportunities and collaborations.
+
+<p align="center">
+    <a href="https://linkedin.com/in/bistp" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://bistp.github.io" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-3B7EBF?logo=ReadMe&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="mailto:Prabhat020@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+</p>
+
+<!-- Optional: GitHub Stats Card -->
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical) -->
